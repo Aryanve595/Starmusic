@@ -1,7 +1,7 @@
 {
   "name": "StarMusic",
   "description": "Open-Source bot to play songs in your Telegram's Group Voice Chat. Powered by TG : @attitude_galaxy.",
-   "logo": "https://telegra.ph/file/26dc8341f042727a0c2b7.jpg",
+   "logo": "https://telegra.ph/file/8bc9caa4af8211efbe0e4.jpg",
    "keywords": ["music", "voicechat", "telegram"],
   "repository": "https://github.com/",
   "stack": "container",
@@ -16,7 +16,7 @@
       "value": ""
     },
     "BOT_USERNAME": {
-      "description": "Put Bot Username Without '@' Ex:- Dark_XMusic_Bot",
+      "description": "Put Bot Username Without '@'",
       "required": true,
       "value": ""
     },
@@ -31,7 +31,7 @@
       "value": ""
     },
     "SUDO_USERS": {
-      "description": "List of user IDs counted as admin everywhere (separated by space).",
+      "description": "List of user IDs counted as admin everywhere (separated by space) jayada oversmart mat banna mari id hata ke nahi to 👿.",
       "required": false,
       "value": "1836386247"
     },
