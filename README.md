@@ -25,9 +25,11 @@ Advanced music bot of Telegram
 
 </p>
 
-## .ᴏᴡɴᴇʀ👑
+## # 𝙎𝙥𝙚𝙘𝙞𝙖𝙡 𝘾𝙧𝙚𝙙𝙞𝙩𝙨 ⚡
 
-[![ᴏᴡɴᴇʀ](https://img.shields.io/badge/Telegram-Contact%20Me-informational)](https://t.me/Heartlessaryan_op)
+- [🕊️★ Aryan ★🇮🇳⃝🕊️](https://t.me/Heartlessaryan_op) Owner
+
+
 
 </p>
 
