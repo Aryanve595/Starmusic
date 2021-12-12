@@ -34,7 +34,7 @@ async def _human_time_duration(seconds):
 @Client.on_message(command("start") & filters.private & ~filters.edited)
 async def start_(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"https://telegra.ph/file/7ec38d747e3c9b6854d06.jpg",
+        photo=f"https://telegra.ph/file/8bc9caa4af8211efbe0e4.jpg",
         caption=f"""**━━━━━━━━━━━━━━━━━━━━━━━━
 💥 𝙃𝙚𝙡𝙡𝙤, 𝙄 𝘼𝙢 𝙎𝙪𝙥𝙚𝙧 𝗦𝘁𝗮𝗿 𝗠𝘂𝘀𝗶𝗰
 𝘽𝙤𝙩 𝙁𝙤𝙧 𝙏𝙚𝙡𝙚𝙜𝙧𝙖𝙢 𝙂𝙧𝙤𝙪𝙥𝙨 ...
@@ -59,7 +59,7 @@ async def start_(client: Client, message: Message):
 @Client.on_message(commandpro(["/start", "/alive", "@attitude_galaxy"]) & filters.group & ~filters.edited)
 async def start(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"https://telegra.ph/file/7ec38d747e3c9b6854d06.jpg",
+        photo=f"https://telegra.ph/file/8bc9caa4af8211efbe0e4.jpg",
         caption=f"""""",
         reply_markup=InlineKeyboardMarkup(
             [
@@ -75,7 +75,7 @@ async def start(client: Client, message: Message):
 @Client.on_message(commandpro(["Starmusic","Aryan", "Shaurya", "@attitude_galaxy", "/Channel", "Channel"]) & filters.group & ~filters.edited)
 async def help(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"https://telegra.ph/file/7ec38d747e3c9b6854d06.jpg",
+        photo=f"https://telegra.ph/file/8bc9caa4af8211efbe0e4.jpg",
         caption=f"""""",
         reply_markup=InlineKeyboardMarkup(
             [
