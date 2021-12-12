@@ -1,7 +1,7 @@
 <h2 align="centre">𝄞🆂🆃🅰🆁🌟🅼🆄🆂🅸🅲🎸</h2>
 Advanced music bot of Telegram 
 
-<p align="center"><a href="https://t.me/attitude_galaxy"><img src="https://telegra.ph/file/7ec38d747e3c9b6854d06.jpg" width="300"></a></p>
+<p align="center"><a href="https://t.me/attitude_galaxy"><img src="https://telegra.ph/file/8bc9caa4af8211efbe0e4.jpg" width="300"></a></p>
 
 </p>
 
@@ -39,7 +39,7 @@ Advanced music bot of Telegram
 
 ## .ʀᴇᴩʟ.
 
-[![Run on Repl.it](https://replit.com/badge/github/TeamUltroid/Ultroid)](https://replit.com/@AryanVerma14/Operamusicsstringsession#main.py)
+[![Run on Repl.it](https://replit.com/badge/github/TeamUltroid/Ultroid)](https://replit.com/@attitudekinguse/Starmusicstring#main.py)
 
 </p>
 
