@@ -21,7 +21,7 @@ Advanced music bot of Telegram
 
 ## .ꜱᴜᴩᴩᴏʀᴛ🔧
 
-[![ꜱᴜᴩᴩᴏʀᴛ](https://img.shields.io/badge/ꜱᴜᴩᴩᴏʀᴛ-Crazy_worlds-red?style=for-the-badge&logo=telegram)](https://t.me/+D-BHHAF3u1piMjQ1)</br></br>
+[![ꜱᴜᴩᴩᴏʀᴛ](https://img.shields.io/badge/ꜱᴜᴩᴩᴏʀᴛ-Crazy_worlds-red?style=for-the-badge&logo=telegram)](https://t.me/+4S7RJBI0oRFkNTJl)</br></br>
 
 </p>
 
