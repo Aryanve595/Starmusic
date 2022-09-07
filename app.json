@@ -3,7 +3,7 @@
   "description": "Open-Source bot to play songs in your Telegram's Group Voice Chat. Powered by TG : @attitude_galaxy.",
    "logo": "https://telegra.ph/file/8bc9caa4af8211efbe0e4.jpg",
    "keywords": ["music", "voicechat", "telegram"],
-  "repository": "https://github.com/",
+  "repository": "https://github.com/Aryanve595/Starmusic",
   "stack": "container",
   "env": {
     "SESSION_NAME": {
